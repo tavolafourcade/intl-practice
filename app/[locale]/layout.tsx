@@ -18,7 +18,7 @@ async function getMessages(locale: string) {
 }
 
 export async function generateStaticParams() {
-  return [ 'en', 'es', 'que' ].map((locale) => ({ locale }))
+  return [ 'es' ].map((locale) => ({ locale }))
 }
 
 export const metadata: Metadata = {
