@@ -1,3 +1,5 @@
 {
-  "saludo": "Bienvenido"
+  "Index": {
+    "title": "Hola mundo!"
+  }
 }
